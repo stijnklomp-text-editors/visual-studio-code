@@ -1,0 +1,28 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "editor.minimap.showSlider": "always",
+  "editor.quickSuggestionsDelay": 0,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "diffEditor.wordWrap": "on",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.compactFolders": false,
+  "git.ignoreMissingGitWarning": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "security.allowedUNCHosts": [
+    "wsl$"
+  ],
+  "update.showReleaseNotes": false,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.startupEditor": "none",
+  "remote.autoForwardPorts": false,
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "settingsSync.ignoredExtensions": [
+    "ms-playwright.playwright"
+  ],
+  "remote.autoForwardPortsSource": "hybrid"
+}
