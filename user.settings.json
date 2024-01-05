@@ -1,4 +1,5 @@
 {
+  "extensions.ignoreRecommendations": true,
   "workbench.colorTheme": "Default Dark+",
   "editor.minimap.showSlider": "always",
   "editor.quickSuggestionsDelay": 0,
