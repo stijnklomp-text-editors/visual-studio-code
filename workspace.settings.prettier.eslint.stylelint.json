@@ -1,0 +1,33 @@
+{
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"editor.formatOnPaste": false,
+	"editor.formatOnType": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"files.autoSave": "onFocusChange",
+	"git.ignoreLimitWarning": true,
+	"eslint.format.enable": true,
+    "json.validate.enable": false,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"css.validate": false,
+	"less.validate": false,
+	"scss.validate": false,
+	"stylelint.validate": [
+		"css",
+		"scss"
+	],
+	"[css]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	}
+}
