@@ -1,23 +1,23 @@
 {
+	"css.validate": false,
+    "[dockercompose]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
 	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
 	"editor.formatOnPaste": false,
-	"editor.formatOnType": false,
 	"editor.formatOnSave": true,
 	"editor.formatOnSaveMode": "file",
+	"editor.formatOnType": false,
+	"eslint.format.enable": true,
 	"files.autoSave": "onFocusChange",
 	"git.ignoreLimitWarning": true,
-	"eslint.format.enable": true,
     "json.validate.enable": false,
 	"[json]": {
-		"editor.defaultFormatter": "vscode.json-language-features"
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[jsonc]": {
-		"editor.defaultFormatter": "vscode.json-language-features"
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
-	},
-	"css.validate": false,
 	"less.validate": false,
 	"scss.validate": false,
 	"stylelint.validate": [
@@ -28,6 +28,9 @@
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 	},
 	"[scss]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"[typescriptreact]": {
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 	}
 }

@@ -1,29 +1,27 @@
 {
-  "extensions.ignoreRecommendations": true,
-  "workbench.colorTheme": "Default Dark+",
+  "diffEditor.wordWrap": "on",
+  "editor.formatOnSave": true,
   "editor.minimap.showSlider": "always",
   "editor.quickSuggestionsDelay": 0,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.wordWrap": "on",
-  "diffEditor.wordWrap": "on",
-  "typescript.updateImportsOnFileMove.enabled": "always",
+  "extensions.ignoreRecommendations": true,
   "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
   "git.ignoreMissingGitWarning": true,
+  "git.openRepositoryInParentFolders": "never",
+  "remote.autoForwardPorts": false,
+  "remote.autoForwardPortsSource": "hybrid",
   "security.workspace.trust.untrustedFiles": "open",
+  "settingsSync.ignoredExtensions": [
+    "ms-playwright.playwright"
+  ],
   "typescript.tsdk": "node_modules/typescript/lib",
   "security.allowedUNCHosts": [
     "wsl$"
   ],
   "update.showReleaseNotes": false,
-  "git.openRepositoryInParentFolders": "never",
-  "workbench.startupEditor": "none",
-  "remote.autoForwardPorts": false,
   "window.zoomLevel": 1,
-  "editor.formatOnSave": true,
-  "settingsSync.ignoredExtensions": [
-    "ms-playwright.playwright"
-  ],
-  "remote.autoForwardPortsSource": "hybrid"
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.startupEditor": "none"
 }
