@@ -9,6 +9,9 @@
 	"editor.formatOnSaveMode": "file",
 	"editor.formatOnType": false,
 	"eslint.format.enable": true,
+    "files.associations": {
+		"*.json": "jsonc"
+	},
 	"files.autoSave": "onFocusChange",
 	"git.ignoreLimitWarning": true,
     "json.validate.enable": false,

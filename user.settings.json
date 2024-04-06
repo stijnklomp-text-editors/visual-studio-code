@@ -23,5 +23,11 @@
   "update.showReleaseNotes": false,
   "window.zoomLevel": 1,
   "workbench.colorTheme": "Default Dark+",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "files.associations": {
+    "*.md": "markdown"
+  }
 }
