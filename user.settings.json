@@ -1,33 +1,42 @@
 {
+  "[yaml]": {
+      "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
   "diffEditor.wordWrap": "on",
   "editor.formatOnSave": true,
   "editor.minimap.showSlider": "always",
   "editor.quickSuggestionsDelay": 0,
+  "editor.showUnused": true,
   "editor.wordWrap": "on",
-  "extensions.ignoreRecommendations": true,
+  "eslint.experimental.useFlatConfig": true,
   "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+      "*.md": "markdown",
+      "docker-compose*.yml": "dockercompose"
+  },
   "git.ignoreMissingGitWarning": true,
   "git.openRepositoryInParentFolders": "never",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "playwright.reuseBrowser": false,
   "remote.autoForwardPorts": false,
   "remote.autoForwardPortsSource": "hybrid",
+  "security.allowedUNCHosts": [
+      "wsl$"
+  ],
   "security.workspace.trust.untrustedFiles": "open",
   "settingsSync.ignoredExtensions": [
-    "ms-playwright.playwright"
+      "ms-playwright.playwright"
   ],
   "typescript.tsdk": "node_modules/typescript/lib",
-  "security.allowedUNCHosts": [
-    "wsl$"
-  ],
+  "typescript.updateImportsOnFileMove.enabled": "always",
   "update.showReleaseNotes": false,
   "window.zoomLevel": 1,
   "workbench.colorTheme": "Default Dark+",
   "workbench.startupEditor": "none",
-  "[yaml]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  },
-  "files.associations": {
-    "*.md": "markdown"
+  "yaml.schemas": {
+      "https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json": "docker-compose*.yml"
   }
 }

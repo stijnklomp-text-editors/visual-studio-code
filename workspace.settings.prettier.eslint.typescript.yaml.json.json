@@ -1,0 +1,22 @@
+{
+	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	"editor.formatOnPaste": false,
+	"editor.formatOnType": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"files.autoSave": "onFocusChange",
+	"git.ignoreLimitWarning": true,
+	"eslint.format.enable": true,
+	"eslint.validate": [
+		"javascript",
+		"json",
+		"jsonc",
+		"json5",
+		"yml",
+		"yaml",
+		"dockercompose"
+	],
+	"yaml.schemas": {
+		"https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/schemas/v3.0/schema.json": "file:///home/stijn/developer/personal/fastify-template/schemas/openapi.yaml"
+	}
+}
