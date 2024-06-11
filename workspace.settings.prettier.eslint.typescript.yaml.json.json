@@ -14,7 +14,10 @@
 		"json5",
 		"yml",
 		"yaml",
-		"dockercompose"
+		"dockercompose",
+		"markdown",
+		"md",
+		"mdx"
 	],
 	"yaml.schemas": {
 		"https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/schemas/v3.0/schema.json": "file:///home/stijn/developer/personal/fastify-template/schemas/openapi.yaml"
