@@ -1,0 +1,13 @@
+{
+  "userDataProfiles": [
+        {
+            "location": "2995f3e4",
+            "name": "backend-typescript",
+            "icon": "server",
+            "useDefaultFlags": {
+                "keybindings": true,
+                "tasks": true
+            }
+        }
+    ]
+}

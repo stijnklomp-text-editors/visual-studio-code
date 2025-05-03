@@ -4,10 +4,8 @@
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
-	"editor.formatOnPaste": false,
 	"editor.formatOnSave": true,
 	"editor.formatOnSaveMode": "file",
-	"editor.formatOnType": false,
 	"eslint.format.enable": true,
     "files.associations": {
 		"*.json": "jsonc"

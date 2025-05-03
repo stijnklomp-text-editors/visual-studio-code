@@ -1,0 +1,41 @@
+{
+    "window.newWindowProfile": "Default",
+    "editor.wordWrap": "on",
+    "extensions.ignoreRecommendations": true,
+    "workbench.remoteIndicator.showExtensionRecommendations": false,
+    "editor.minimap.showSlider": "always",
+    "editor.quickSuggestionsDelay": 0,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "notebook.confirmDeleteRunningCell": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "chat.editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+    "scm.compactFolders": false,
+    "git.ignoreMissingGitWarning": true,
+    "debug.hideSlowPreLaunchWarning": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "git.ignoreLegacyWarning": true,
+    "git.ignoreLimitWarning": true,
+    "git.ignoreRebaseWarning": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "accessibility.signals.positionHasError": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.startupEditor": "none",
+    "remote.autoForwardPorts": false,
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "window.confirmSaveUntitledWorkspace": false,
+    "window.customMenuBarAltFocus": false,
+    "window.enableMenuBarMnemonics": false,
+    "update.showReleaseNotes": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+	  "editor.formatOnSave": false
+}
