@@ -1,2 +1,7 @@
+*
 !workspace/
-!
+!workspace/**
+!repoInstructions/
+!repoInstructions/**
+!LICENSE
+!README.md

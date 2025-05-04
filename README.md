@@ -8,7 +8,7 @@
 git clone git@github.com:stijnklomp-text-editors/visual-studio-code.git
 mv visual-studio-code Code
 mkdir -p ~/.config
-cp -r ./Code ~/.config/Code
+cp -r ./Code/. ~/.config/Code
 ```
 
 ## Install
