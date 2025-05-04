@@ -13,7 +13,12 @@ cp -r ./Code/. ~/.config/Code
 
 ## Install
 
-Take the contents of `./repoInstructions/User/globalStorage/storage.json` and
+1. Take the contents of `./repoInstructions/User/globalStorage/storage.json` and
 put it in `./User/globalStorage/storage.json`. (Create that file if it doesn't
 exist already) You should append the array elements if there is already an array
 value present for key "userDataProfiles".
+2. Add the profiles:
+```sh
+sudo chmod +x ./repoInstructions/install.sh
+./repoInstructions/install.sh
+```
